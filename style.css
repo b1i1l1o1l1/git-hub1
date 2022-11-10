@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+}
+
+.container {
+    background-color: #fff;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFC145;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.setlar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.Hire {
+    background-color: gold;
+    height: 80px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 110px;
+
+}
+
+h4 {
+    opacity: 0.8;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid red;
+    margin-left: 10px
+}
+
+img {
+    border-radius: 50%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+}
+
+.footer {
+    width: 100%;
+    height: 30px;
+    background-color: blueviolet;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+i{
+    color: red;
+    margin-left: 20px;
+}
+.layk{
+    margin-right: 220px;
+}
+.projects{
+    margin-right: 20px;
+}
